@@ -72,4 +72,11 @@ saved_models/
 ├── mappo/
 └── moddpg/
 ```
+## Citattion
+
+If you use this code in your research, please cite the following paper:
+
+A. Wibisono, H.-K. Song and B. M. Lee,
+"Energy-Aware MARL for Coordinated Data Collection in Multi-AUV Systems,"
+IEEE Access, 2025. doi: 10.1109/ACCESS.2025.3606016
 
