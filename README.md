@@ -72,7 +72,7 @@ saved_models/
 ├── mappo/
 └── moddpg/
 ```
-## Citattion
+## Citation
 
 If you use this code in your research, please cite the following paper:
 
