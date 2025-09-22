@@ -77,7 +77,7 @@ saved_models/
 If this repository helps you in your academic research, you are encouraged to cite our paper.  
 Here is an example BibTeX entry:
 
-```bibtex
+```python
 @ARTICLE{Wibisono2025MARL,
   author={Wibisono, Arif and Song, Hyoung-Kyu and Lee, Byung Moo},
   journal={IEEE Access},  
