@@ -74,9 +74,19 @@ saved_models/
 ```
 ## Citation
 
-If you use this code in your research, please cite the following paper:
+If this repository helps you in your academic research, you are encouraged to cite our paper.  
+Here is an example BibTeX entry:
 
-A. Wibisono, H.-K. Song and B. M. Lee,
-"Energy-Aware MARL for Coordinated Data Collection in Multi-AUV Systems,"
-IEEE Access, 2025. doi: 10.1109/ACCESS.2025.3606016
+```bibtex
+@ARTICLE{Wibisono2025MARL,
+  author={Wibisono, Arif and Song, Hyoung-Kyu and Lee, Byung Moo},
+  journal={IEEE Access},  
+  title={Energy-Aware MARL for Coordinated Data Collection in Multi-AUV Systems},  
+  year={2025},  
+  volume={13},  
+  pages={155835-155854},  
+  issn={2169-3536},  
+  doi={10.1109/ACCESS.2025.3606016}
+}
+```
 
